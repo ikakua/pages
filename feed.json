@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "iKakua | Hotel Sistem Untuk Semua",
+    "title": "iKakua Hotel Sistem",
     "description": "",
     "home_page_url": "https://ikakua.github.io/pages",
     "feed_url": "https://ikakua.github.io/pages/feed.json",
@@ -21,8 +21,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:18:48+08:00",
-            "date_modified": "2020-09-15T16:18:48+08:00"
+            "date_published": "2020-09-15T16:24:25+08:00",
+            "date_modified": "2020-09-15T16:24:25+08:00"
         },
         {
             "id": "https://ikakua.github.io/pages/front-desk-system/index.html",
@@ -36,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:18:48+08:00",
-            "date_modified": "2020-09-15T16:18:48+08:00"
+            "date_published": "2020-09-15T16:24:25+08:00",
+            "date_modified": "2020-09-15T16:24:25+08:00"
         },
         {
             "id": "https://ikakua.github.io/pages/ikakua/index.html",
@@ -51,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T16:18:48+08:00",
-            "date_modified": "2020-09-15T16:18:48+08:00"
+            "date_published": "2020-09-15T16:24:25+08:00",
+            "date_modified": "2020-09-15T16:24:25+08:00"
         }
     ]
 }
