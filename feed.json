@@ -5,7 +5,7 @@
     "home_page_url": "https://ikakua.github.io/pages",
     "feed_url": "https://ikakua.github.io/pages/feed.json",
     "user_comment": "",
-    "icon": "https://ikakua.github.io/pages/media/website/Logo-Small.jpg",
+    "icon": "https://ikakua.github.io/pages/media/website/Logo_Transparent-2.png",
     "author": {
         "name": "iKakua"
     },
@@ -22,8 +22,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T17:13:08+08:00",
-            "date_modified": "2020-09-15T17:13:08+08:00"
+            "date_published": "2020-09-15T17:21:39+08:00",
+            "date_modified": "2020-09-15T17:21:39+08:00"
         },
         {
             "id": "https://ikakua.github.io/pages/channel-manager/index.html",
@@ -37,8 +37,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T17:13:08+08:00",
-            "date_modified": "2020-09-15T17:13:08+08:00"
+            "date_published": "2020-09-15T17:21:39+08:00",
+            "date_modified": "2020-09-15T17:21:39+08:00"
         },
         {
             "id": "https://ikakua.github.io/pages/front-desk-system/index.html",
@@ -52,8 +52,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T17:13:08+08:00",
-            "date_modified": "2020-09-15T17:13:08+08:00"
+            "date_published": "2020-09-15T17:21:39+08:00",
+            "date_modified": "2020-09-15T17:21:39+08:00"
         },
         {
             "id": "https://ikakua.github.io/pages/ikakua/index.html",
@@ -67,8 +67,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-15T17:13:08+08:00",
-            "date_modified": "2020-09-15T17:13:08+08:00"
+            "date_published": "2020-09-15T17:21:39+08:00",
+            "date_modified": "2020-09-15T17:21:39+08:00"
         }
     ]
 }
