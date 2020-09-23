@@ -5,6 +5,7 @@
     "home_page_url": "https://ikakua.com",
     "feed_url": "https://ikakua.com/feed.json",
     "user_comment": "",
+    "icon": "https://ikakua.com/media/website/Logo-200-x-200.png",
     "author": {
         "name": "iKakua"
     },
@@ -21,8 +22,8 @@
             "tags": [
                    "iKakua"
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         },
         {
             "id": "https://ikakua.com/keunggulan-ikakua.html",
@@ -35,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         },
         {
             "id": "https://ikakua.com/harga-fleksibel.html",
@@ -50,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         },
         {
             "id": "https://ikakua.com/channel-manager.html",
@@ -65,8 +66,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         },
         {
             "id": "https://ikakua.com/front-desk-system.html",
@@ -80,8 +81,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         },
         {
             "id": "https://ikakua.com/ikakua.html",
@@ -95,8 +96,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-23T16:24:53+08:00",
-            "date_modified": "2020-09-23T16:24:53+08:00"
+            "date_published": "2020-09-23T16:28:21+08:00",
+            "date_modified": "2020-09-23T16:28:21+08:00"
         }
     ]
 }
