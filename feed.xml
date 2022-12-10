@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>iKakua Hotel Sistem</title>
     <link href="https://ikakua.com/feed.xml" rel="self" />
     <link href="https://ikakua.com" />
-    <updated>2021-01-15T17:13:15+08:00</updated>
+    <updated>2021-01-15T16:13:15+07:00</updated>
     <author>
         <name>iKakua</name>
     </author>
@@ -16,9 +16,10 @@
         </author>
         <link href="https://ikakua.com/ikakua-hotel-sistem-untuk-semua.html"/>
         <id>https://ikakua.com/ikakua-hotel-sistem-untuk-semua.html</id>
+        <media:content url="https://ikakua.com/media/posts/7/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" medium="image" />
             <category term="iKakua"/>
 
-        <updated>2020-09-23T17:02:57+08:00</updated>
+        <updated>2020-09-23T16:02:57+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/7/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" alt="" />
@@ -27,7 +28,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/7/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" alt="" />
+                    <p><img src="https://ikakua.com/media/posts/7/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://ikakua.com/media/posts/7/gallery/burst-kUqqaRjJuw0-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://ikakua.com/media/posts/7/gallery/burst-kUqqaRjJuw0-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
 <figure class="gallery__item"><a href="https://ikakua.com/media/posts/7/gallery/campaign-creators-OGOWDVLbMSc-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://ikakua.com/media/posts/7/gallery/campaign-creators-OGOWDVLbMSc-unsplash-thumbnail.jpg" alt="" width="720" height="480"></a></figure>
@@ -109,8 +110,9 @@
         </author>
         <link href="https://ikakua.com/keunggulan-ikakua.html"/>
         <id>https://ikakua.com/keunggulan-ikakua.html</id>
+        <media:content url="https://ikakua.com/media/posts/6/burst-kUqqaRjJuw0-unsplash.jpg" medium="image" />
 
-        <updated>2020-09-27T16:30:41+08:00</updated>
+        <updated>2020-09-27T15:30:41+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/6/burst-kUqqaRjJuw0-unsplash.jpg" alt="" />
@@ -119,7 +121,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/6/burst-kUqqaRjJuw0-unsplash.jpg" alt="" />
+                    <p><img src="https://ikakua.com/media/posts/6/burst-kUqqaRjJuw0-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <h3><strong>1. Harga iKakua Yang Fleksibel</strong></h3>
 <p> </p>
 <p><span style="font-weight: 400;">Untuk fasilitas channel manager, Anda hanya perlu membayar sejumlah harga koneksi dengan online travel agent yang Anda pilih. Jadi Anda tidak membuang-buang uang untuk terkoneksi dengan channel manager yang Anda tidak pakai. </span></p>
@@ -143,17 +145,18 @@
         </author>
         <link href="https://ikakua.com/harga-fleksibel.html"/>
         <id>https://ikakua.com/harga-fleksibel.html</id>
+        <media:content url="https://ikakua.com/media/posts/5/michal-parzuchowski-Nh4Sxasye24-unsplash.jpg" medium="image" />
 
-        <updated>2020-09-23T17:03:20+08:00</updated>
+        <updated>2020-09-23T16:03:20+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/5/michal-parzuchowski-Nh4Sxasye24-unsplash.jpg" alt="" />
-                    Harga Yang FleksibelUntuk fasilitas channel manager, Anda hanya perlu membayar sejumlah harga koneksi dengan online travel agent yang Anda pilih.
+                    Harga Yang Fleksibel Untuk fasilitas channel manager, Anda hanya perlu membayar sejumlah harga koneksi dengan online travel agent yang Anda&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/5/michal-parzuchowski-Nh4Sxasye24-unsplash.jpg" alt="" />
+                    <p><img src="https://ikakua.com/media/posts/5/michal-parzuchowski-Nh4Sxasye24-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <h2 class="align-center"><span style="font-weight: 400;">Harga Yang Fleksibel</span></h2>
 <p><span style="font-weight: 400;">Untuk fasilitas channel manager, Anda hanya perlu membayar sejumlah harga koneksi dengan online travel agent yang Anda pilih. Jadi Anda tidak membuang-buang uang untuk terkoneksi dengan channel manager yang Anda tidak pakai. </span></p>
 <p><span style="font-weight: 400;">Misalnya jika anda hanya mendaftarkan penginapan anda di Booking.com, Expedia, Airbnb dan Traveloka maka Anda hanya perlu membayar untuk 4 online travel agent itu saja. </span></p>
@@ -168,17 +171,18 @@
         </author>
         <link href="https://ikakua.com/channel-manager.html"/>
         <id>https://ikakua.com/channel-manager.html</id>
+        <media:content url="https://ikakua.com/media/posts/4/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" medium="image" />
 
-        <updated>2021-01-15T17:13:15+08:00</updated>
+        <updated>2021-01-15T16:13:15+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/4/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" alt="" />
-                    Channel Manager Channel Manager adalah sebuah program yang menghubungkan hotel Anda dengan online travel agent tempat hotel anda didaftarkan. Jika tanpa&hellip;
+                    Channel Manager Channel Manager adalah sebuah program yang menghubungkan hotel Anda dengan online travel agent tempat hotel anda didaftarkan. Jika&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/4/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" alt="" />
+                    <p><img src="https://ikakua.com/media/posts/4/radek-grzybowski-eBRTYyjwpRY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="7">
 <figure class="gallery__item"><a href="https://ikakua.com/media/posts/4/gallery/agoda-channel-manager-2.jpg" data-size="170x100"><img loading="lazy" src="https://ikakua.com/media/posts/4/gallery/agoda-channel-manager-2-thumbnail.jpg" alt="" width="170" height="100"></a></figure>
 <figure class="gallery__item"><a href="https://ikakua.com/media/posts/4/gallery/airbnb-channel-manager-2.jpg" data-size="170x100"><img loading="lazy" src="https://ikakua.com/media/posts/4/gallery/airbnb-channel-manager-2-thumbnail.jpg" alt="" width="170" height="100"></a></figure>
@@ -358,8 +362,9 @@
         </author>
         <link href="https://ikakua.com/front-desk-system.html"/>
         <id>https://ikakua.com/front-desk-system.html</id>
+        <media:content url="https://ikakua.com/media/posts/3/allie-vuWCq1bXZy0-unsplash.jpg" medium="image" />
 
-        <updated>2020-09-23T17:03:31+08:00</updated>
+        <updated>2020-09-23T16:03:31+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/3/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
@@ -368,7 +373,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/3/allie-vuWCq1bXZy0-unsplash.jpg" alt="" />
+                    <p><img src="https://ikakua.com/media/posts/3/allie-vuWCq1bXZy0-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-left">Sebuah front desk system dengan semua kelengkapan yang diperlukan untuk mengelola reservasi, harga, ketersediaan dan juga data tamu. Cetak kartu registrasi, tagihan tamu dan juga mengirim email dari satu tempat. Bisa diakses dari manapun lewat computer, laptop, smart phone atau tablet.</p>
             ]]>
         </content>
@@ -380,8 +385,9 @@
         </author>
         <link href="https://ikakua.com/ikakua.html"/>
         <id>https://ikakua.com/ikakua.html</id>
+        <media:content url="https://ikakua.com/media/posts/2/austin-distel-gUIJ0YszPig-unsplash.jpg" medium="image" />
 
-        <updated>2020-09-23T17:03:37+08:00</updated>
+        <updated>2020-09-23T16:03:37+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ikakua.com/media/posts/2/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="iKakua.com" />
@@ -390,7 +396,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ikakua.com/media/posts/2/austin-distel-gUIJ0YszPig-unsplash.jpg" alt="iKakua.com" />
+                    <p><img src="https://ikakua.com/media/posts/2/austin-distel-gUIJ0YszPig-unsplash.jpg" class="type:primaryImage" alt="iKakua.com" /></p>
                 <p><span style="font-weight: 400;">iKakua adalah solusi untuk membuat operasional hotel anda lebih </span><strong>EFISIEN</strong><span style="font-weight: 400;">. Front Desk sistem dengan </span><i><span style="font-weight: 400;">channel manager </span></i><span style="font-weight: 400;">agar hotel anda terhubung ke </span><i><span style="font-weight: 400;">online travel agent </span></i><span style="font-weight: 400;">sehingga proses </span><i><span style="font-weight: 400;">update </span></i><span style="font-weight: 400;">berjalan otomatis. </span></p>
 <p><span style="font-weight: 400;">Selain membawa </span><strong>PENGHEMATAN </strong><span style="font-weight: 400;">jangka panjang, iKakua juga membuat </span><strong>STAFF </strong><span style="font-weight: 400;">hotel anda bisa </span><strong>TERSENYUM </strong><span style="font-weight: 400;">lebih banyak ke tamu-tamu dan melayani dengan dengan lebih baik karena mereka bisa fokus memberikan pelayanan sebaba proses </span><i><span style="font-weight: 400;">update </span></i><span style="font-weight: 400;">dan persiapan pelayanan sudah ditangani sistem. </span></p>
 <h3 class="align-center"><strong>Operasional Hotel menjadi lebih SEDERHANA dan PRIMA</strong></h3>
